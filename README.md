@@ -28,3 +28,11 @@ git clone [https://github.com/Aayan-Ahmed-17/Requests-Lib-Python.git](https://gi
 
 # Install the dependency
 pip install requests
+```
+
+### 🔑 API Key
+The NASA APOD example uses a free demo key (DEMO_KEY). For higher rate limits, get a free key at api.nasa.gov.
+
+### 📦 Requirements
+* Python: 3.x
+* Library: requests
